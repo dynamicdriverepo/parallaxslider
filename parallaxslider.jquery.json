@@ -3,7 +3,7 @@
   "title": "Parallax Slider",
   "description": "Parallax Slider incorporates a parallax scrolling effect where each slide and its contents glide into view at different speeds, creating a captivating visual experience.",
   "keywords": ["slider", "slideshow", "parallax"],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Dynamic Drive",
     "email" : "ddrivehelp@gmail.com",
